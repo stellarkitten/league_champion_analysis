@@ -1,0 +1,171 @@
+ID,Name,Alias,Title,Style,Difficulty,Damage Type,Damage,Durability,Crowd Control,Mobility,Utility,Primary Role,Secondary Role,Skins,Passive
+1,Annie,Annie,the Dark Child,10,1,Magic,3,1,3,1,2,mage,support,18,Pyromania
+2,Olaf,Olaf,the Berserker,4,2,Physical,2,2,2,1,1,fighter,tank,12,Berserker Rage
+3,Galio,Galio,the Colossus,10,2,Magic,2,3,3,2,1,tank,mage,10,Colossal Smash
+4,Twisted Fate,TwistedFate,the Card Master,7,2,Magic,3,1,2,2,2,mage,marksman,16,Loaded Dice
+5,Xin Zhao,XinZhao,the Seneschal of Demacia,4,1,Physical,2,2,2,2,1,fighter,tank,11,Determination
+6,Urgot,Urgot,the Dreadnought,6,2,Physical,2,2,2,1,1,fighter,tank,7,Echoing Flames
+7,LeBlanc,Leblanc,the Deceiver,10,3,Magic,3,1,2,3,1,assassin,mage,14,Mirror Image
+8,Vladimir,Vladimir,the Crimson Reaper,10,2,Magic,3,2,1,1,1,mage,fighter,14,Crimson Pact
+9,Fiddlesticks,FiddleSticks,the Ancient Fear,10,2,Magic,3,1,3,1,1,mage,support,12,A Harmless Scarecrow
+10,Kayle,Kayle,the Righteous,3,2,Mixed,3,1,1,1,3,mage,marksman,17,Divine Ascent
+11,Master Yi,MasterYi,the Wuju Bladesman,2,1,Physical,3,1,1,2,1,assassin,fighter,18,Double Strike
+12,Alistar,Alistar,the Minotaur,7,1,Magic,1,3,3,1,2,tank,support,15,Triumphant Roar
+13,Ryze,Ryze,the Rune Mage,10,2,Magic,3,1,2,2,2,mage,,14,Arcane Mastery
+14,Sion,Sion,The Undead Juggernaut,7,1,Physical,2,3,3,1,1,tank,fighter,10,Glory in Death
+15,Sivir,Sivir,the Battle Mistress,2,2,Physical,3,1,1,1,2,marksman,,19,Fleet of Foot
+16,Soraka,Soraka,the Starchild,10,1,Magic,1,1,2,1,3,support,mage,17,Salvation
+17,Teemo,Teemo,the Swift Scout,4,1,Magic,3,1,2,1,2,marksman,mage,15,Guerrilla Warfare
+18,Tristana,Tristana,the Yordle Gunner,3,1,Physical,3,1,2,2,1,marksman,assassin,16,Draw a Bead
+19,Warwick,Warwick,the Uncaged Wrath of Zaun,4,1,Mixed,2,2,2,1,1,fighter,tank,16,Eternal Hunger
+20,Nunu & Willump,Nunu,the Boy and His Yeti,8,1,Magic,1,3,2,1,2,tank,mage,13,Call of the Freljord
+21,Miss Fortune,MissFortune,the Bounty Hunter,4,1,Physical,3,1,1,1,1,marksman,mage,23,Love Tap
+22,Ashe,Ashe,the Frost Archer,3,1,Physical,2,1,3,1,2,marksman,support,19,Frost Shot
+23,Tryndamere,Tryndamere,the Barbarian King,2,1,Physical,3,2,1,2,1,fighter,assassin,13,Battle Fury
+24,Jax,Jax,Grandmaster at Arms,2,2,Mixed,3,2,2,2,1,fighter,,17,Relentless Assault
+25,Morgana,Morgana,the Fallen,10,1,Magic,2,1,3,1,2,mage,support,16,Soul Siphon
+26,Zilean,Zilean,the Chronokeeper,10,2,Magic,2,1,2,2,3,support,mage,8,Time In A Bottle
+27,Singed,Singed,the Mad Chemist,10,2,Magic,2,3,2,2,1,tank,mage,13,Noxious Slipstream
+28,Evelynn,Evelynn,Agony's Embrace,8,2,Magic,2,2,1,2,2,assassin,mage,16,Demon Shade
+29,Twitch,Twitch,the Plague Rat,1,2,Physical,3,1,1,2,1,marksman,assassin,14,Deadly Venom
+30,Karthus,Karthus,the Deathsinger,10,2,Magic,3,1,1,1,2,mage,,10,Death Defied
+31,Cho'Gath,Chogath,the Terror of the Void,7,1,Magic,2,3,2,1,1,tank,mage,11,Carnivore
+32,Amumu,Amumu,the Sad Mummy,9,1,Magic,2,3,3,1,1,tank,support,15,Cursed Touch
+33,Rammus,Rammus,the Armordillo,7,1,Mixed,2,3,3,2,1,tank,,12,Spiked Shell
+34,Anivia,Anivia,the Cryophoenix,10,3,Magic,3,1,3,1,2,mage,,13,Rebirth
+35,Shaco,Shaco,the Demon Jester,5,2,Physical,3,1,2,2,2,assassin,,15,Backstab
+36,Dr. Mundo,DrMundo,the Madman of Zaun,6,1,Mixed,2,3,1,1,1,tank,fighter,12,Goes Where He Pleases
+37,Sona,Sona,Maven of the Strings,9,1,Magic,2,1,2,1,2,support,mage,15,Power Chord
+38,Kassadin,Kassadin,the Void Walker,9,2,Magic,3,2,1,3,1,assassin,mage,10,Void Stone
+39,Irelia,Irelia,the Blade Dancer,4,3,Mixed,2,2,2,3,2,fighter,assassin,15,Ionian Fervor
+40,Janna,Janna,the Storm's Fury,10,1,Magic,1,1,3,1,3,support,mage,16,Tailwind
+41,Gangplank,Gangplank,the Saltwater Scourge,8,3,Physical,3,1,1,1,2,fighter,,13,Trial by Fire
+42,Corki,Corki,the Daring Bombardier,5,2,Mixed,3,1,1,2,1,marksman,mage,11,Hextech Munitions
+43,Karma,Karma,the Enlightened One,10,1,Magic,2,1,2,1,2,mage,support,15,Gathering Fire
+44,Taric,Taric,the Shield of Valoran,8,2,Magic,1,2,2,1,3,support,tank,7,Bravado
+45,Veigar,Veigar,the Tiny Master of Evil,10,2,Magic,3,1,3,1,1,mage,,16,Phenomenal Evil Power
+48,Trundle,Trundle,the Troll King,3,1,Physical,2,3,1,1,2,fighter,tank,9,King's Tribute
+50,Swain,Swain,the Noxian Grand General,10,2,Magic,2,2,2,1,1,mage,support,10,Ravenous Flock
+51,Caitlyn,Caitlyn,the Sheriff of Piltover,2,1,Physical,3,1,2,2,1,marksman,,20,Headshot
+53,Blitzcrank,Blitzcrank,the Great Steam Golem,9,1,Magic,1,2,3,1,1,tank,support,16,Mana Barrier
+54,Malphite,Malphite,Shard of the Monolith,8,1,Magic,1,3,3,1,1,tank,mage,14,Granite Shield
+55,Katarina,Katarina,the Sinister Blade,10,3,Magic,3,1,1,3,1,assassin,mage,19,Voracity
+56,Nocturne,Nocturne,the Eternal Nightmare,4,1,Physical,3,1,2,2,2,fighter,assassin,11,Umbra Blades
+57,Maokai,Maokai,the Twisted Treant,8,1,Magic,1,3,3,1,2,tank,support,11,Sap Magic
+58,Renekton,Renekton,the Butcher of the Sands,5,1,Physical,2,2,2,2,1,fighter,tank,15,Reign of Anger
+59,Jarvan IV,JarvanIV,the Exemplar of Demacia,6,1,Physical,2,2,2,2,2,fighter,tank,15,Martial Cadence
+60,Elise,Elise,the Spider Queen,7,3,Magic,2,2,2,2,1,assassin,mage,10,Spider Queen
+61,Orianna,Orianna,the Lady of Clockwork,9,2,Magic,2,1,2,1,2,mage,support,13,Clockwork Windup
+62,Wukong,MonkeyKing,the Monkey King,6,1,Physical,2,2,2,2,1,fighter,tank,9,Stone Skin
+63,Brand,Brand,the Burning Vengeance,10,2,Magic,3,1,2,1,1,mage,support,13,Blaze
+64,Lee Sin,LeeSin,the Blind Monk,6,3,Physical,3,2,2,3,1,fighter,assassin,19,Flurry
+67,Vayne,Vayne,the Night Hunter,1,2,Physical,3,1,2,2,1,marksman,assassin,18,Night Hunter
+68,Rumble,Rumble,the Mechanized Menace,9,3,Magic,3,2,2,1,1,fighter,mage,7,Junkyard Titan
+69,Cassiopeia,Cassiopeia,the Serpent's Embrace,10,3,Magic,3,1,3,1,1,mage,,10,Serpentine Grace
+72,Skarner,Skarner,the Primordial Sovereign,5,2,Mixed,2,3,3,2,1,tank,fighter,6,Threads of Vibration
+74,Heimerdinger,Heimerdinger,the Revered Inventor,10,2,Magic,3,1,2,1,2,mage,support,10,Hextech Affinity
+75,Nasus,Nasus,the Curator of the Sands,3,1,Physical,2,3,2,1,1,fighter,tank,13,Soul Eater
+76,Nidalee,Nidalee,the Bestial Huntress,8,3,Magic,3,1,1,3,2,assassin,mage,16,Prowl
+77,Udyr,Udyr,the Spirit Walker,4,2,Mixed,2,3,2,2,1,fighter,tank,7,Bridge Between
+78,Poppy,Poppy,Keeper of the Hammer,8,2,Physical,2,3,3,2,1,tank,fighter,13,Iron Ambassador
+79,Gragas,Gragas,the Rabble Rouser,9,2,Magic,2,3,3,2,1,fighter,mage,15,Happy Hour
+80,Pantheon,Pantheon,the Unbreakable Spear,8,1,Physical,3,2,2,2,1,fighter,assassin,14,Mortal Will
+81,Ezreal,Ezreal,the Prodigal Explorer,1,1,Mixed,1,1,1,1,1,marksman,mage,22,Rising Spell Force
+82,Mordekaiser,Mordekaiser,the Iron Revenant,8,2,Magic,3,2,1,1,2,fighter,mage,12,Darkness Rise
+83,Yorick,Yorick,Shepherd of Souls,6,2,Mixed,2,2,2,1,2,fighter,tank,9,Shepherd of Souls
+84,Akali,Akali,the Rogue Assassin,7,2,Mixed,3,1,1,3,1,assassin,,21,Assassin's Mark
+85,Kennen,Kennen,the Heart of the Tempest,7,2,Magic,3,1,3,1,1,mage,,11,Mark of the Storm
+86,Garen,Garen,The Might of Demacia,8,1,Physical,2,3,1,1,1,fighter,tank,16,Perseverance
+89,Leona,Leona,the Radiant Dawn,9,1,Magic,1,3,3,1,1,tank,support,18,Sunlight
+90,Malzahar,Malzahar,the Prophet of the Void,10,1,Magic,3,1,3,1,2,mage,,13,Void Shift
+91,Talon,Talon,the Blade's Shadow,7,2,Physical,3,1,1,2,1,assassin,,12,Blade's End
+92,Riven,Riven,the Exile,8,2,Physical,3,2,2,3,1,fighter,assassin,18,Runic Blade
+96,Kog'Maw,KogMaw,the Mouth of the Abyss,2,2,Mixed,3,1,1,1,1,marksman,mage,16,Icathian Surprise
+98,Shen,Shen,the Eye of Twilight,5,2,Mixed,2,3,2,2,3,tank,,13,Ki Barrier
+99,Lux,Lux,the Lady of Luminosity,9,1,Magic,3,1,2,1,2,mage,support,21,Illumination
+101,Xerath,Xerath,the Magus Ascendant,9,2,Magic,3,1,2,1,1,mage,support,9,Mana Surge
+102,Shyvana,Shyvana,the Half-Dragon,6,1,Physical,2,2,1,2,1,fighter,mage,9,Fury of the Dragonborn
+103,Ahri,Ahri,the Nine-Tailed Fox,10,2,Magic,3,1,2,3,1,mage,assassin,19,Essence Theft
+104,Graves,Graves,the Outlaw,3,2,Physical,3,2,1,2,2,marksman,,14,New Destiny
+105,Fizz,Fizz,the Tidal Trickster,9,3,Magic,3,1,2,3,1,assassin,fighter,14,Nimble Fighter
+106,Volibear,Volibear,the Relentless Storm,4,1,Physical,2,3,2,2,1,fighter,tank,10,The Relentless Storm
+107,Rengar,Rengar,the Pridestalker,4,2,Physical,3,1,2,2,1,assassin,fighter,9,Unseen Predator
+110,Varus,Varus,the Arrow of Retribution,3,2,Physical,3,1,2,1,1,marksman,mage,14,Living Vengeance
+111,Nautilus,Nautilus,the Titan of the Depths,8,2,Magic,1,3,3,1,1,tank,support,11,Staggering Blow
+112,Viktor,Viktor,the Herald of the Arcane,9,3,Magic,3,1,2,1,1,mage,,8,Glorious Evolution
+113,Sejuani,Sejuani,Fury of the North,8,2,Magic,2,2,3,2,1,tank,,13,Fury of the North
+114,Fiora,Fiora,the Grand Duelist,3,3,Physical,3,2,2,2,2,fighter,assassin,16,Duelist's Dance
+115,Ziggs,Ziggs,the Hexplosives Expert,9,2,Magic,3,1,2,2,1,mage,,12,Short Fuse
+117,Lulu,Lulu,the Fae Sorceress,8,2,Magic,2,1,2,1,3,support,mage,13,"Pix, Faerie Companion"
+119,Draven,Draven,the Glorious Executioner,2,3,Physical,3,1,1,2,1,marksman,,13,League of Draven
+120,Hecarim,Hecarim,the Shadow of War,7,2,Physical,2,2,2,2,1,fighter,tank,12,Warpath
+121,Kha'Zix,Khazix,the Voidreaver,6,2,Physical,3,1,1,2,1,assassin,,9,Unseen Threat
+122,Darius,Darius,the Hand of Noxus,6,2,Physical,3,2,2,1,1,fighter,tank,14,Hemorrhage
+126,Jayce,Jayce,the Defender of Tomorrow,5,2,Physical,3,1,1,2,2,marksman,fighter,12,Hextech Capacitor
+127,Lissandra,Lissandra,the Ice Witch,10,2,Magic,3,1,3,2,1,mage,,9,Iceborn Subjugation
+131,Diana,Diana,Scorn of the Moon,7,1,Magic,3,2,2,2,1,fighter,assassin,15,Moonsilver Blade
+133,Quinn,Quinn,Demacia's Wings,3,2,Physical,3,1,2,3,1,marksman,assassin,7,Harrier
+134,Syndra,Syndra,the Dark Sovereign,10,2,Magic,3,1,2,1,1,mage,,14,Transcendent
+136,Aurelion Sol,AurelionSol,The Star Forger,10,3,Magic,3,1,2,2,1,mage,,6,Cosmic Creator
+141,Kayn,Kayn,the Shadow Reaper,1,2,Physical,3,1,1,3,1,fighter,assassin,7,The Darkin Scythe
+142,Zoe,Zoe,the Aspect of Twilight,10,3,Magic,3,1,2,2,1,mage,,9,More Sparkles!
+143,Zyra,Zyra,Rise of the Thorns,10,2,Magic,3,1,3,1,1,mage,support,12,Garden of Thorns
+145,Kai'Sa,Kaisa,Daughter of the Void,2,2,Mixed,3,1,0,3,1,marksman,mage,14,Second Skin
+147,Seraphine,Seraphine,the Starry-Eyed Songstress,10,1,Magic,3,1,3,1,2,support,mage,9,Stage Presence
+150,Gnar,Gnar,the Missing Link,5,3,Physical,2,3,2,2,1,fighter,tank,10,Rage Gene
+154,Zac,Zac,the Secret Weapon,10,1,Magic,2,3,3,2,1,tank,fighter,7,Cell Division
+157,Yasuo,Yasuo,the Unforgiven,3,3,Physical,3,1,2,3,2,fighter,assassin,18,Way of the Wanderer
+161,Vel'Koz,Velkoz,the Eye of the Void,10,2,Magic,3,1,2,1,1,mage,support,7,Organic Deconstruction
+163,Taliyah,Taliyah,the Stoneweaver,10,2,Magic,3,1,2,1,3,mage,support,6,Rock Surfing
+164,Camille,Camille,the Steel Shadow,4,3,Physical,3,2,2,3,1,fighter,assassin,8,Adaptive Defenses
+166,Akshan,Akshan,the Rogue Sentinel,1,3,Physical,3,1,1,3,2,marksman,assassin,4,Dirty Fighting
+200,Bel'Veth,Belveth,the Empress of the Void,1,2,Physical,3,1,2,3,1,fighter,,4,Death in Lavender 
+201,Braum,Braum,the Heart of the Freljord,9,2,Magic,1,2,3,1,2,tank,support,8,Concussive Blows
+202,Jhin,Jhin,the Virtuoso,3,2,Physical,3,1,2,1,1,marksman,mage,12,Whisper
+203,Kindred,Kindred,The Eternal Hunters,3,3,Physical,3,1,2,3,2,marksman,,9,Mark of the Kindred
+221,Zeri,Zeri,The Spark of Zaun,4,2,Mixed,2,1,2,3,0,marksman,,6,Living Battery
+222,Jinx,Jinx,the Loose Cannon,2,2,Physical,3,1,2,1,1,marksman,,15,Get Excited!
+223,Tahm Kench,TahmKench,The River King,7,1,Magic,2,3,2,1,3,tank,support,7,An Acquired Taste
+233,Briar,Briar,the Restrained Hunger,2,2,Physical,2,2,3,3,1,fighter,assassin,3,Crimson Curse
+234,Viego,Viego,The Ruined King,3,3,Physical,3,1,2,2,1,fighter,assassin,7,Sovereign's Domination
+235,Senna,Senna,the Redeemer,3,2,Physical,2,1,2,1,3,support,marksman,10,Absolution
+236,Lucian,Lucian,the Purifier,4,2,Physical,3,1,1,3,1,marksman,assassin,13,Lightslinger
+238,Zed,Zed,the Master of Shadows,6,3,Physical,3,1,1,3,1,assassin,,13,Contempt for the Weak
+240,Kled,Kled,the Cantankerous Cavalier,3,2,Physical,3,2,1,3,1,fighter,,5,"Skaarl, the Cowardly Lizard"
+245,Ekko,Ekko,the Boy Who Shattered Time,8,3,Magic,3,2,2,3,1,assassin,mage,13,Z-Drive Resonance
+246,Qiyana,Qiyana,Empress of the Elements,7,3,Physical,3,1,2,2,1,assassin,,9,Royal Privilege
+254,Vi,Vi,the Piltover Enforcer,6,1,Physical,2,2,3,2,1,fighter,assassin,13,Blast Shield
+266,Aatrox,Aatrox,the Darkin Blade,3,2,Physical,3,3,2,2,2,fighter,,13,Deathbringer Stance
+267,Nami,Nami,the Tidecaller,9,2,Magic,1,1,3,1,2,support,mage,14,Surging Tides
+268,Azir,Azir,the Emperor of the Sands,5,3,Magic,3,1,2,2,1,mage,marksman,8,Shurima's Legacy
+350,Yuumi,Yuumi,the Magical Cat,10,1,Magic,1,1,1,3,3,support,mage,9,Feline Friendship
+360,Samira,Samira,the Desert Rose,1,2,Physical,3,2,1,3,1,marksman,assassin,6,Daredevil Impulse
+412,Thresh,Thresh,the Chain Warden,8,3,Magic,1,2,3,1,3,support,tank,17,Damnation
+420,Illaoi,Illaoi,the Kraken Priestess,7,2,Physical,3,2,1,1,1,fighter,tank,6,Prophet of an Elder God
+421,Rek'Sai,RekSai,the Void Burrower,4,2,Physical,2,2,2,2,2,fighter,tank,6,Fury of the Xer'Sai
+427,Ivern,Ivern,the Green Father,1,3,Magic,1,1,3,2,3,support,mage,5,Friend of the Forest
+429,Kalista,Kalista,the Spear of Vengeance,2,3,Physical,3,1,1,3,2,marksman,,6,Martial Poise
+432,Bard,Bard,the Wandering Caretaker,7,3,Magic,1,1,3,2,3,support,mage,8,Traveler's Call
+497,Rakan,Rakan,The Charmer,9,2,Magic,1,2,3,3,3,support,,12,Fey Feathers
+498,Xayah,Xayah,the Rebel,4,2,Physical,3,2,3,1,1,marksman,,12,Clean Cuts
+516,Ornn,Ornn,The Fire below the Mountain,7,2,Mixed,1,3,3,1,2,tank,,5,Living Forge
+517,Sylas,Sylas,the Unshackled,7,3,Magic,2,2,1,3,1,mage,assassin,9,Petricite Burst
+518,Neeko,Neeko,the Curious Chameleon,8,1,Magic,3,1,3,1,1,mage,support,9,Inherent Glamour
+523,Aphelios,Aphelios,the Weapon of the Faithful,3,3,Physical,3,1,2,1,1,marksman,,6,The Hitman and the Seer
+526,Rell,Rell,the Iron Maiden,9,2,Magic,1,3,3,2,2,tank,support,4,Break the Mold
+555,Pyke,Pyke,the Bloodharbor Ripper,7,2,Physical,2,1,3,3,1,support,assassin,11,Gift of the Drowned Ones
+711,Vex,Vex,the Gloomist,9,2,Magic,3,2,2,2,1,mage,,3,Doom 'n Gloom
+777,Yone,Yone,the Unforgotten,5,3,Mixed,3,1,2,3,1,fighter,assassin,10,Way of the Hunter
+799,Ambessa,Ambessa,Matriarch of War,6,3,Physical,3,2,1,3,1,fighter,assassin,2,Drakehound's Step
+800,Mel,Mel,the Soul's Reflection,10,2,Magic,3,1,2,1,1,mage,support,2,Searing Brilliance
+875,Sett,Sett,the Boss,4,2,Physical,2,2,2,2,1,fighter,tank,10,Pit Grit
+876,Lillia,Lillia,the Bashful Bloom,8,3,Magic,3,1,2,2,2,fighter,mage,5,Dream-Laden Bough
+887,Gwen,Gwen,The Hallowed Seamstress,5,2,Magic,3,2,1,3,1,fighter,,5,A Thousand Cuts
+888,Renata Glasc,Renata,the Chem-Baroness,8,2,Magic,2,1,3,1,2,support,mage,6,Leverage
+893,Aurora,Aurora,the Witch Between Worlds,10,2,Magic,3,1,2,3,1,mage,assassin,2,Spirit Abjuration
+895,Nilah,Nilah,the Joy Unbound,3,3,Physical,3,1,1,3,2,fighter,assassin,3,Joy Unending
+897,K'Sante,KSante,the Pride of Nazumah,3,3,Physical,2,3,3,2,2,tank,fighter,4,Dauntless Instinct
+901,Smolder,Smolder,the Fiery Fledgling,4,1,Mixed,3,1,1,1,1,marksman,mage,2,Dragon Practice
+902,Milio,Milio,The Gentle Flame,8,1,Magic,1,1,2,1,3,support,mage,3,Fired Up!
+910,Hwei,Hwei,the Visionary,9,3,Magic,3,1,3,1,2,mage,support,2,Signature of the Visionary
+950,Naafiri,Naafiri,the Hound of a Hundred Bites,7,1,Physical,3,1,1,3,1,assassin,fighter,3,We Are More
