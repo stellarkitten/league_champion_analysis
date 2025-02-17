@@ -56,9 +56,9 @@ skins = df["Skins"]
 
 plt.hist(skins, bins=range(min(skins), max(skins)+1, 1), align="left")
 
-plt.title("Skin Distribution")
 plt.xlabel("Skins")
 plt.ylabel("Counts")
+plt.title("Skin Distribution")
 
 plt.tight_layout()
 plt.show()
